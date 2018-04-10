@@ -1,5 +1,5 @@
 
-This code is associated with the paper from Krishnamoorthy et al., "Sensitivity to image recurrence across eye-movement-like image transitions through local serial inhibition in the retina" eLife, 2017. https://elifesciences.org/articles/22431
+This code is associated with the paper from Krishnamoorthy et al., "Sensitivity to image recurrence across eye-movement-like image transitions through local serial inhibition in the retina" eLife, 2017. http://dx.doi.org/10.7554/eLife.22431
 
 
 # IRScellSimulation
